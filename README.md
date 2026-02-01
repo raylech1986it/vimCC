@@ -1,6 +1,8 @@
 # Course Files
 This repo contains all test files for my premium Vim cash course: 
 
+- https://stan.store/raychavez/p/vim-crash-course-for-linux-users
+
 The files are nothing special:
 1. `vimCC.txt` was created by me and is a combination of `smb.conf`, `sshd_config`, and a few other standard linux files.
 2. The other files were take directly from https://github.com/FOGProject/fogproject, so full credit to them 👌
